@@ -3,9 +3,12 @@ import React from "react";
 
 function Card(props) {
 
-    return (<div className="cards">
+    return (
         <div className="card">
-            <img src={props.img_src} alt="img" className="card_img" />
+        <div className="imgcon">
+        <img src={props.img_src} alt="img" className="card_img" />
+        </div>
+            
             <div className="card_info">
                 <span className="card_category"> {props.title} </span>
                 <h3 className="card_title"> {props.sname} </h3>
@@ -14,7 +17,7 @@ function Card(props) {
                 </a>
             </div>
         </div>
-    </div>)
+    )
 }
 
 
