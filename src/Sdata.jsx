@@ -29,6 +29,36 @@ const Sdata = [
         sname:"Transformers: Prime",
         link:"https://www.netflix.com/title/70234439"
     },
+    {
+        img_src:"https://www.denofgeek.com/wp-content/uploads/2022/01/all-of-us-are-dead-ending-explained-2.jpg?resize=768%2C432",
+        title:"A Netflix Original Series",
+        sname:"All of Us Are Dead",
+        link:"https://www.netflix.com/title/81237994"
+    },
+    {
+        img_src:"https://wallpapers.com/images/featured/rxxyiybobk8m0q7u.jpg",
+        title:"A Netflix Original Series",
+        sname:"Naruto: Shippuden",
+        link:"https://www.netflix.com/in/title/80000603"
+    },
+    {
+        img_src:"https://cdn.myanimelist.net/images/about_me/ranking_items/10368353-6d837ca5-fe63-47d6-bd3a-011abebb99fa.png?t=1673962766",
+        title:"A Netflix Original Series",
+        sname:"Chainsaw Man",
+        link:"https://www.netflix.com/hk-en/title/81215627"
+    },
+    {
+        img_src:"https://upload.wikimedia.org/wikipedia/en/5/53/Mismatched_poster.jpg",
+        title:"A Netflix Original Series",
+        sname:"Mismatched",
+        link:"https://www.netflix.com/title/80220079"
+    },
+    {
+        img_src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahRV9WPRy3g4Ppuzka1L8waNTas4tLsy1gA&usqp=CAU",
+        title:"A Netflix Original Series",
+        sname:"Demon Slayer: Kimetsu no Yaiba",
+        link:"https://www.netflix.com/title/81091393"
+    },
 ]
 
 export default Sdata;
